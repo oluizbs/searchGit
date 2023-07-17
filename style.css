@@ -1,0 +1,61 @@
+body {
+    font-family: Helvetica;
+    background-color: #0d1117;
+    color: #c9d1d9;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 300px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+.divRepos{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.userInfo{
+    margin-left: 5%;
+    margin-top: 3%;
+    
+}
+
+.userInfo h2{
+    font-size: 1.5em;
+    margin-top: 0.1%;
+}
+
+.userInfo img{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.divRepos a{
+    color:   #0366d6;
+    text-decoration: none;
+    font-size: large;
+}
+
+#login_name{
+    margin-top: -1.5%;
+    color: #586069;
+    font-size: 120%;
+}
+
+.user_html{
+    text-decoration: none;
+    color: #c9d1d9;
+}
